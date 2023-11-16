@@ -8,7 +8,7 @@ I am a full-stack software engineer proficient in Javascript, Node, ES6, React a
 
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [noel.alam9999@gmail.com](mailto:noel.alam9999@gmail.com)
-* 🧠  I'm learning about Smart Contracts
+* 🧠  I'm learning about Clean Code, Domain Driven Design and Architecture
 
 ### Skills
 
