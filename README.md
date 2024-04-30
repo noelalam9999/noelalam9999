@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Engineer
 ----------------------------
 
-I am a full-stack software engineer proficient in Javascript, Node, ES6, React and Express.
+I am a full-stack software engineer proficient in Javascript, Node, ES6, React, Express, Microservices, RabbitMQ, Redis. 
 
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [noel.alam9999@gmail.com](mailto:noel.alam9999@gmail.com)
